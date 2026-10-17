@@ -27,3 +27,6 @@ docs/doxygen/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# AI prompt log (the repository is public)
+/docs/ai-prompts/
