@@ -1,0 +1,23 @@
+# Doxygen configuration for the birthday wisher (Python).
+# Run from the repository root:  doxygen Doxyfile
+# Output goes to docs/doxygen/ (git-ignored).
+
+PROJECT_NAME           = "Birthday Wisher"
+PROJECT_BRIEF          = "Sends a random birthday letter by e-mail (Udemy 100 Days of Code, day 32)"
+OUTPUT_DIRECTORY       = docs/doxygen
+INPUT                  = src README.md
+FILE_PATTERNS          = *.py *.md
+RECURSIVE              = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+
+OPTIMIZE_OUTPUT_JAVA   = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+JAVADOC_AUTOBRIEF      = YES
+AUTOLINK_SUPPORT       = YES
+SOURCE_BROWSER         = YES
+
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES

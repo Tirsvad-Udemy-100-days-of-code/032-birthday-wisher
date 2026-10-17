@@ -1,0 +1,29 @@
+# Secrets: personal use only, never committed
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Generated documentation
+docs/doxygen/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
