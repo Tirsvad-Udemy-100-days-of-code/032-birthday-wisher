@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; reviewed in RC-002 (Go) | pending |
+| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; reviewed in RC-002 (Go) | [052008f] |
 
 ---
 
@@ -77,3 +77,4 @@ Reviewer: S01 (Product Owner). Review recorded in the `RC-*` for this instance.
 ---
 
 [BC-001]: ./business-case.md
+[052008f]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/commit/052008f21364120a7c4d5ebbff26b8c16e05a21c

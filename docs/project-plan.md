@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; accepted by S01 (AI as stand-in, plan accepted in chat 2026-10-17) | pending |
+| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; accepted by S01 (AI as stand-in, plan accepted in chat 2026-10-17) | [052008f] |
 
 ---
 
@@ -84,3 +84,4 @@ A No-Go at a gate moves every later date by the time needed to fix and re-review
 [MIL-001]: ./milestones/mil-001-project-setup.md
 [MIL-002]: ./milestones/mil-002-birthday-wisher-core.md
 [MIL-003]: ./milestones/mil-003-documentation-and-publication.md
+[052008f]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/commit/052008f21364120a7c4d5ebbff26b8c16e05a21c

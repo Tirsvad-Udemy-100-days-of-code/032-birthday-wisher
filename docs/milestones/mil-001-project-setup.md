@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; reviewed in RC-003 (Go) | pending |
+| 2026-10-17 | Accepted | Jens Tirsvad Nielsen | S01 | Initial version; reviewed in RC-003 (Go) | [052008f] |
 
 ---
 
@@ -71,3 +71,4 @@ A Python 3.13+ project skeleton: `pyproject.toml` with pytest and no runtime dep
 
 [BC-001]: ../business-case.md
 [SA-001]: ../stakeholder-analysis.md
+[052008f]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/commit/052008f21364120a7c4d5ebbff26b8c16e05a21c
