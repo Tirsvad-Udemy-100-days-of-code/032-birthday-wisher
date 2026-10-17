@@ -29,9 +29,9 @@ This plan schedules the three phases that deliver the birthday wisher of [BC-001
 
 | Gateway | Document | Window | Decision date | Owner | Stories | Main deliverable | Milestone |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| G1 Project setup | [MIL-001] | 2026-10-17 to 2026-10-18 | 2026-10-18 | S01 | none (plain tasks) | Skeleton, tooling, repository metadata | |
-| G2 Core | [MIL-002] | 2026-10-18 to 2026-10-19 | 2026-10-19 | S01 | none (plain tasks) | Working, tested birthday wisher | |
-| G3 Documentation | [MIL-003] | 2026-10-19 to 2026-10-20 | 2026-10-20 | S01 | none (plain tasks) | README, tri-lingual wiki, screenshots | |
+| G1 Project setup | [MIL-001] | 2026-10-17 to 2026-10-18 | 2026-10-18 | S01 | none (plain tasks) | Skeleton, tooling, repository metadata | [M-188] |
+| G2 Core | [MIL-002] | 2026-10-18 to 2026-10-19 | 2026-10-19 | S01 | none (plain tasks) | Working, tested birthday wisher | [M-189] |
+| G3 Documentation | [MIL-003] | 2026-10-19 to 2026-10-20 | 2026-10-20 | S01 | none (plain tasks) | README, tri-lingual wiki, screenshots | [M-190] |
 
 ```plantuml
 @startgantt
@@ -85,3 +85,6 @@ A No-Go at a gate moves every later date by the time needed to fix and re-review
 [MIL-002]: ./milestones/mil-002-birthday-wisher-core.md
 [MIL-003]: ./milestones/mil-003-documentation-and-publication.md
 [052008f]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/commit/052008f21364120a7c4d5ebbff26b8c16e05a21c
+[M-188]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/milestones/188
+[M-189]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/milestones/189
+[M-190]: https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/032-birthday-wisher/milestones/190
